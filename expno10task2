@@ -1,3 +1,10 @@
+/*
+Aim : WAP to print the elements of an array in reverse
+        order ussing pointer.
+Name : Ansari Mohammad Muzammil Nisar Ahmad
+UIN : 241A035       Roll Number : 29       Dive: A
+*/
+
 #include<stdio.h>
 
 int main() {
